@@ -1,3 +1,3 @@
-# BPM Model of car registration service
+# BPM Model of a car registration service
 
 ### Made by Stanislav, Alexander & Mathias Bigler
